@@ -9,17 +9,17 @@ Project: Cervello is an electroencephalogram device that will measure electrical
 
 ## Tech Stack (Subject to change)
 
-# Backend
+### Backend
 - Python
 - NumPy
 - EBAPy
 - PyTorch
 
-# Frontend
+### Frontend
 - Flask
 - HTML/CSS
 
-# Hardware
+### Hardware
 - C++
 - Arduino
 
