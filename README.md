@@ -1,8 +1,6 @@
 # Project Cervello
 
 ## 🧠 What it Does
-Project Cervello is an electroencephalogram device that will measure one's electrical activity in the brain and make suggestions that could improve one's health for the better.
-
 The brain is the physical basis for "you". It's activities not only keep our body up and functioning, it also serves as the center for processing the experiences, thoughts, & emotions that create our sense of identity & awareness. Project Cervello interprets input from an electroencephalogram (EEG) device to provide patients with a comprehensive summary of their brain's health: including alerts of irregularities in brain activity, a rating of their cognitive performance, mental health indicators & neuroplasticity insights. Based off the patients' results, Cervello will suggest possible lifestyle changes, excercises, & contacts to local medical specialists & services that could improve or maintain patient brain health.
 
 ## 💻 Potential Features
